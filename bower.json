@@ -1,0 +1,30 @@
+{
+  "name": "interval-tree2",
+  "description": "interval tree in javascript",
+  "main": "dist/interval-tree.js",
+  "authors": [
+    "SHIN Suzuki <shinout310@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "tree",
+    "interval",
+    "range",
+    "algorithm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shinout/interval-tree2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shinout/interval-tree2/issues"
+  },
+  "homepage": "https://github.com/shinout/interval-tree2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
